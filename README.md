@@ -3,8 +3,6 @@ Atenção se subir material quebrando direito autoral passível de exclusão do 
 
 Pessam acesso aos times, pastas e projetos que quiserem fazer parte.
 
-Usem o arquivo Links para add links interessantes, vamos procurar criar pastas para grandes temas e ir subindo materiais para estas pastas.
-
-Os projetos podemos criar sob demanda e os membros que quiserem participar só pedir acesso.
+Usem o arquivo Links para add links interessantes, vamos procurar criar pastas para grandes temas e ir subindo materiais dividindo por áreas, se sentir falta de algum arquivo ou área só avisar aos admins, ou criar uma issue.
 
 Colaborando podemos mais! Valeu galera!

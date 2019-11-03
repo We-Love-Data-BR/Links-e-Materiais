@@ -1,2 +1,56 @@
 Efficient R programming
 https://csgillespie.github.io/efficientR/
+
+This R Data Import Tutorial Is Everything You Need
+https://www.datacamp.com/community/tutorials/r-data-import-tutorial
+
+Logistic Regression in R Tutorial
+https://www.datacamp.com/community/tutorials/logistic-regression-R
+
+SQLite in R
+https://www.datacamp.com/community/tutorials/sqlite-in-r
+
+Bootstrap in R
+https://www.datacamp.com/community/tutorials/bootstrap-r
+
+Formulas in R Tutorial
+https://www.datacamp.com/community/tutorials/r-formula-tutorial
+
+Tutorial on the R Apply Family
+https://www.datacamp.com/community/tutorials/r-tutorial-apply-family
+
+Machine Learning in R for beginners
+https://www.datacamp.com/community/tutorials/machine-learning-in-r
+
+Algorithmic Trading in R Tutorial
+https://www.datacamp.com/community/tutorials/r-trading-tutorial
+
+Data Frames in R
+https://www.datacamp.com/community/tutorials/data-frames-r
+
+Web Scraping in R: rvest Tutorial
+https://www.datacamp.com/community/tutorials/r-web-scraping-rvest
+
+Ensemble Learning in R with SuperLearner
+https://www.datacamp.com/community/tutorials/ensemble-r-machine-learning
+
+Web Scraping with R and PhantomJS
+https://www.datacamp.com/community/tutorials/scraping-javascript-generated-data-with-r
+
+The data.table R Package Cheat Sheet
+https://www.datacamp.com/community/tutorials/data-table-cheat-sheet
+
+Merging Datasets in R
+https://www.datacamp.com/community/tutorials/merging-datasets-r
+
+Contingency Analysis using R
+https://www.datacamp.com/community/tutorials/contingency-analysis-r
+
+Support Vector Machines in R
+https://www.datacamp.com/community/tutorials/support-vector-machines-r
+
+Facets for ggplot in R
+https://www.datacamp.com/community/tutorials/facets-ggplot-r
+
+Five Tips to Improve Your R Code
+https://www.datacamp.com/community/tutorials/five-tips-r-code-improve

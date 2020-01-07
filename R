@@ -1,3 +1,8 @@
+Livro R
+https://bradleyboehmke.github.io/HOML/
+Material complementar
+https://koalaverse.github.io/homlr/
+
 Curso r 
 http://material.curso-r.com/
 
